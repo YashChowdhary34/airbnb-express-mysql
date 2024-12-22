@@ -1,7 +1,5 @@
 # Airbnb Clone
 
-![Technologies Used]![Node js_logo svg](https://github.com/user-attachments/assets/b264155c-0b48-4257-b684-7f80f32920f1)![images](https://github.com/user-attachments/assets/b88eebed-d6fb-452b-a938-f01e49c70c41)![png-transparent-mysql-php-database-javascript-ajax-carnifex-blue-text-logo](https://github.com/user-attachments/assets/4fa05256-efc9-40c2-af6d-6ee5f2e74a49)![Expressjs](https://github.com/user-attachments/assets/eeac81a2-fcf3-45ba-a1f9-1ff68a31facb)![Tailwind_CSS_logo svg](https://github.com/user-attachments/assets/fc6964c8-f5ce-42cd-9479-8d2a84bb36f7)
-
 This project is a simplified clone of the Airbnb platform, developed to demonstrate proficiency in building full-stack web applications. It encompasses functionalities such as property listings, user authentication, and booking management, utilizing a robust technology stack.
 
 ## Table of Contents
@@ -24,9 +22,7 @@ This project is a simplified clone of the Airbnb platform, developed to demonstr
 
 ## Technologies Used
 
-![Tech Stack](https://i.imgur.com/QHVJlYA.png)
-
-- **Frontend**: 
+- **Frontend**:
   - EJS (Embedded JavaScript Templates)
   - Tailwind CSS
 - **Backend**:
